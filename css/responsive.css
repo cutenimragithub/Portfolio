@@ -1,0 +1,76 @@
+@media only screen and (min-width: 1400px){
+
+}
+
+@media only screen and (min-width: 1201px) {
+
+}
+
+@media only screen and (max-width: 1200px){
+
+}
+@media only screen and (max-width: 1024px){
+}
+@media only screen and (max-width: 991px){
+
+
+}
+@media only screen and (max-width: 912px){
+    .section-1 {
+        height: 35vh;
+        margin-top: 96px;
+    }
+    .section-1 h4::after {
+        width: 12%;
+        top: 14%;
+        left: 32%;
+    }
+    .counter-section p {
+ font-size: 12px!important;
+    }
+    ul li .date {
+        font-size: 15px;
+    }
+    .send-button {
+        width: 21%;
+    }
+    .section-1 h4::after {
+     display: none;
+    }
+}
+@media only screen and (max-width: 820px){
+
+}
+@media only screen and (max-width: 768px){
+
+
+
+}
+
+@media only screen and (max-width: 720px){
+
+}
+
+@media screen and (max-width: 576px){
+    .section-1 {
+        height: 90vh;
+        margin-top: 80px;
+    }
+    ul li .date {
+        font-size: 14px;
+    }
+    .send-button {
+        width: 35%;
+    }
+    .header_wrapper .nav-item .nav-link.active::after, .header_wrapper .nav-item .nav-link:hover::after {
+        width: 17%;
+    }
+}
+@media screen and (max-width: 540px){
+}
+@media screen and (max-width: 414px){
+
+}
+@media screen and (max-width: 375px){
+
+}
